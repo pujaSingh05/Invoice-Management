@@ -18,4 +18,4 @@ Your app is ready to be deployed!
 
 
 Deployment
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This section has moved here:  https://pujasingh05.github.io/Invoice-Management-System/
